@@ -1,2 +1,3 @@
 # numconv
-A library for converting a number between bases.
+A program designed to convert a number between bases
+Supports bases 2-36
