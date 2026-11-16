@@ -11,7 +11,7 @@
 #include "numconv.h"
 
 using namespace ftxui;
-const std::string usage = "Usage:\nUI : numconv \nCMD: numconv <input> <input base> <output base>\n";
+const std::string usage = "Usage:\nTUI : numconv \nCMD: numconv <input> <input base> <output base>\n";
 
 void ui(void);
 
